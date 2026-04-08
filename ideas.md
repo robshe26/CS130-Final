@@ -8,8 +8,7 @@
 #### Questions 
 
 - What is the average city miles per gallon of every car that is on the list
-   - `17.28 miles per gallon`
-      - This can be done by looking at a specific row of information that is provided in the .csv file. With that information, you can take the average of all of the numbers provided, then divide that by the number of cars that are listed in the file. This is farily simple code to write, once you figure out how to read a specific coloum in the file.  
+      - This can be done by looking at a specific row of information that is provided in the .csv file. With that information, you can take the average of all of the numbers provided, then divide that by the number of cars that are listed in the file. The number of cars can be determined by creating a counter of all of the number of times that that the code loops through the column. This is farily simple code to write, once you figure out how to read a specific coloum in the file.  
 - Does the type of car (ex.Truck, Sedan, SUV, etc.) have an effect on the gas mileage?
 
 ## Labor CSV File 
