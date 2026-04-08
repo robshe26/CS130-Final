@@ -7,7 +7,8 @@
 
 #### Questions 
 
-- Is a certain manufacturer better at creating cars with improved gas mileage?
+- What is the average city miles per gallon of every car that is on the list
+   - 17.28 miles per gallon
 - Does the type of car (ex.Truck, Sedan, SUV, etc.) have an effect on the gas mileage?
 
 ## Labor CSV File 
