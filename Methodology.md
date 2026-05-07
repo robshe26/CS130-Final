@@ -48,7 +48,7 @@ __String Replacement:__
 
 __New Column Creation:__
 
-- To calculate the gap between the highway mpg and the city mpg, I created a new column that holds `Highway_mpg - City_mpg'
+- To calculate the gap between the highway mpg and the city mpg, I created a new column that holds `Highway_mpg - City_mpg`
   - This gap is then used to calculate the additional number of miles a driveline would get on the highway to see if thier is an advantage
 
 - To find the average mpg of the car, not just the city and highway, I created a column that held this data called `avg_mpg`
