@@ -44,7 +44,7 @@ The scatter plot maps out Horsepower against the average MPG, color coded by dri
 
 ### Is the MPG penalty worth it?
 
-This additional power, and the traction that comes with four wheels moving makes them advantageous in the winter time. This begs the question: _is the tradeoff in gas mileage worth the extra safety in the winter?_
+This additional power, and the traction that comes with four wheels moving makes them advantageous in the winter time. This begs the question: _Is the tradeoff in gas mileage worth the extra safety in the winter?_
 
 For most people, I feel the answer to this would be no. While it is helpful, in my experience driving a Front-Wheel drive car in the winter has not been an issue. For unexperienced drivers in winter weather it might be advantageous, but for people that live in Buffalo and regularly drive in the snow, a Front-Wheel drive is enough. More tires moving on the road does not give you extra stopping power, in fact it might make it worse because of the added weight. The roads are mostly plowed, and serious weather events only happen a select few number of times a year. So, in my case the tradeoff between the extra money in gas, versus the extra traction is not worth it
 
