@@ -80,5 +80,7 @@ New Column Creation:
 
 - Height, Length, and Width
   - When I fist started anaylzing this data, I assumed that this represented the height, weight, and length of the exterior of the car in inches. I was initally trying to draw a connection between the volume of the car its respective average MPG. I wanted to see if bigger cars typically offered less MPG. However, when looking at these columns, the data was super inconsistent. For example, when I looked at the height, length, and width of a 2009 Audi A3 the dimensions did not match anything on the car. This was checked in multiple diffrent forms of measurment including inches, centimeters, and feet. This is very misleading and the dimensions dont line up with any other car, which made the analysis of all of these columns very difficult/impossible. It would have helped for these to be labled or even removed.
- 
+
+- Weight
+   - There is no column for the weight of the respective cars. I feel that this is a huge limitation in the fact that this can play a large role in the MPG. The drop in MPG could be simply the fact that AWD vehicles typically wigh several hindred pounds more than a FWD car. So, there is no way to tell if this calculation is based off of the mechinaical drag of spinning four wheels, or just the weight. 
 
