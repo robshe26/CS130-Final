@@ -58,6 +58,13 @@ __New Column Creation:__
   
 - The `groupby` and `map` functions were also used to calculate the average MPG gap for each driveline type and add it as a new column
 
+
+__Graphic Creation:__
+
+- To create the graphics I imported `seaborn` and `matplotlib` and used thier built in functions
+  - Seaborn was something that I researched and found to be able to change the color of the dots on the scatterplot based on the driveline
+ 
+
 ## Assumptions 
 
 __Driver Behavior__
