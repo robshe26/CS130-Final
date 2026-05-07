@@ -54,3 +54,6 @@ __For others it may come down to your specific reality:__
 
 ### The Verdict
 
+For most people the shift from Front-Wheel drive to any other driveline is not needed. While these other drivelines provide assistance suring a massive snowstorm, consumers must recognize that they are paying a daily penalty for it. Buying a All-Wheel Drive or Four-Wheel drive vehicle means accepting a less effcienct, reduced highway gas milage, and a higer fuel cost for the other 350 days of the year. 
+
+
